@@ -12,3 +12,5 @@
 
 ### 🛠 Texnologiyalarim:
 ![My Skills](https://skillicons.dev/icons?i=angular,nodejs,dotnet,typescript,html,css,js)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShohjahonToshpolatov&layout=compact&theme=radical)
